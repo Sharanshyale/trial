@@ -2927,8 +2927,8 @@ doc.rect(300, 220, 250, 150).stroke();
  });
  doc.text("The Client", 300, 230, { width: 250, align: "left" });
  doc.font("Helvetica").fontSize(10);
-doc.text(`Name: ${authSignatoryName}`, 50, 330);
-doc.text(`Designation: ${designation}`, 50, 350);
+doc.text(`Name: Sandeep Kannan`, 50, 330);
+doc.text(`Designation: CEO - Yexah`, 50, 350);
 
 doc.text(`Name:${party2Name} `, 300, 330);
 doc.text(`Designation: ${designation} `, 300, 350);
